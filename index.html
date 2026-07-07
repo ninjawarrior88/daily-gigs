@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RemoteGigs — Best Remote Freelance Jobs Updated Daily</title>
+<meta name="description" content="Find high-paying remote freelance jobs from US, UK, Canada, Australia companies. Updated daily. Web dev, design, writing, marketing and more.">
+<meta name="keywords" content="remote jobs, freelance, work from home, US jobs, UK jobs, high paying freelance">
+<meta property="og:title" content="RemoteGigs — Best Remote Freelance Jobs">
+<meta property="og:description" content="High-paying remote freelance jobs updated daily. Find your next gig.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://YOUR_USERNAME.github.io/daily-gigs/">
+<link rel="canonical" href="https://YOUR_USERNAME.github.io/daily-gigs/">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>💼</text></svg>">
+</head>
+<body>
+
+<header class="header">
+  <div class="container">
+    <div class="header-top">
+      <a href="/" class="logo">Remote<span>Gigs</span></a>
+      <nav>
+        <a href="/">Jobs</a>
+        <a href="about.html">About</a>
+        <a href="tools.html">Tools</a>
+      </nav>
+    </div>
+    <div class="hero">
+      <h1>High-Paying Remote Freelance Jobs</h1>
+      <p class="hero-sub">Curated daily from top companies. 100% remote. Updated every morning.</p>
+      <div class="search-box">
+        <input type="text" id="search" placeholder="Search jobs by title, skill, or keyword..." oninput="filter()">
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="promo-bar">
+  <div class="container">
+    <span>🔥 Sign up on <strong>Upwork</strong> and make your first $1,000 —</span>
+    <a href="https://www.upwork.com/signup/?referrer=freelancer" target="_blank" rel="noopener noreferrer">Join Free →</a>
+  </div>
+</div>
+
+<main class="container">
+  <aside class="sidebar-layout">
+    <div class="main-content">
+      <div class="toolbar">
+        <div class="toolbar-left">
+          <span id="job-count" class="count">Loading...</span>
+          <span class="update-info">Updated: <span id="last-updated">--</span></span>
+        </div>
+        <div class="toolbar-right">
+          <select id="source-filter" onchange="filter()">
+            <option value="all">All Sources</option>
+          </select>
+          <select id="sort-select" onchange="filter()">
+            <option value="date">Newest First</option>
+            <option value="title">Alphabetical</option>
+          </select>
+        </div>
+      </div>
+      <div id="job-list"></div>
+    </div>
+
+    <aside class="sidebar">
+      <div class="widget">
+        <h3>Start Freelancing</h3>
+        <p>Join the top platforms for high-paying remote work.</p>
+        <a href="https://www.upwork.com/signup/?referrer=freelancer" target="_blank" rel="noopener noreferrer" class="widget-btn upwork">Upwork</a>
+        <a href="https://www.fiverr.com/sign_up" target="_blank" rel="noopener noreferrer" class="widget-btn fiverr">Fiverr</a>
+        <a href="https://www.toptal.com/#bring-unbiased-freelance-talent-now" target="_blank" rel="noopener noreferrer" class="widget-btn toptal">Toptal</a>
+      </div>
+
+      <div class="widget">
+        <h3>Tools I Recommend</h3>
+        <div class="tool-item">
+          <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"><strong>Grammarly</strong></a>
+          <span>Write better proposals</span>
+        </div>
+        <div class="tool-item">
+          <a href="https://trello.com/home" target="_blank" rel="noopener noreferrer"><strong>Trello</strong></a>
+          <span>Manage your projects</span>
+        </div>
+        <div class="tool-item">
+          <a href="https://www.notion.so/" target="_blank" rel="noopener noreferrer"><strong>Notion</strong></a>
+          <span>All-in-one workspace</span>
+        </div>
+        <div class="tool-item">
+          <a href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer"><strong>Namecheap</strong></a>
+          <span>Domain + hosting</span>
+        </div>
+      </div>
+
+      <div class="widget">
+        <h3>📩 Get Jobs by Email</h3>
+        <p>Get new remote jobs delivered to your inbox every morning.</p>
+        <form id="email-form" onsubmit="return emailSignup(event)">
+          <input type="email" id="email-input" placeholder="your@email.com" required>
+          <button type="submit">Subscribe</button>
+        </form>
+        <div id="email-msg" class="email-msg"></div>
+      </div>
+    </aside>
+  </aside>
+</main>
+
+<section class="features">
+  <div class="container">
+    <div class="feature-grid">
+      <div class="feature">
+        <div class="feature-icon">🌍</div>
+        <h3>Global Jobs</h3>
+        <p>High-paying remote jobs from US, UK, Canada, Australia, and Europe.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">📅</div>
+        <h3>Daily Updates</h3>
+        <p>New jobs scraped every morning. You see them first.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">💰</div>
+        <h3>High Paying</h3>
+        <p>Focus on roles paying $50-$200+/hr in USD.</p>
+      </div>
+      <div class="feature">
+        <div class="feature-icon">🔍</div>
+        <h3>Curated</h3>
+        <p>Filtered by relevance. No spam, no scams.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="newsletter-section">
+  <div class="container">
+    <h2>Don't Miss a Gig</h2>
+    <p>Get the latest remote jobs sent to your inbox every morning. Free.</p>
+    <form id="nl-form" onsubmit="return nlSignup(event)" class="nl-form">
+      <input type="email" id="nl-email" placeholder="your@email.com" required>
+      <button type="submit">Subscribe Free →</button>
+    </form>
+    <div id="nl-msg" class="email-msg"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-col">
+        <h4>RemoteGigs</h4>
+        <p>Curating the best remote freelance jobs from around the world. Focus on high-paying USD opportunities.</p>
+      </div>
+      <div class="footer-col">
+        <h4>Platforms</h4>
+        <a href="https://www.upwork.com/signup/?referrer=freelancer" target="_blank" rel="noopener noreferrer">Upwork</a>
+        <a href="https://www.fiverr.com/sign_up" target="_blank" rel="noopener noreferrer">Fiverr</a>
+        <a href="https://www.freelancer.com/signup" target="_blank" rel="noopener noreferrer">Freelancer</a>
+        <a href="https://www.toptal.com/#bring-unbiased-freelance-talent-now" target="_blank" rel="noopener noreferrer">Toptal</a>
+        <a href="https://www.peopleperhour.com/freelancer-signup" target="_blank" rel="noopener noreferrer">PeoplePerHour</a>
+      </div>
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <a href="about.html">About</a>
+        <a href="tools.html">Tools</a>
+        <a href="https://github.com/YOUR_USERNAME/daily-gigs" target="_blank" rel="noopener noreferrer">GitHub</a>
+      </div>
+      <div class="footer-col">
+        <h4>Earn With Us</h4>
+        <p>Share this site and earn referral commissions when people sign up through your links.</p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; 2026 RemoteGigs. Some links on this site are affiliate links.</p>
+    </div>
+  </div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>

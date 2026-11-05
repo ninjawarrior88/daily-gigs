@@ -54,15 +54,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Collibra: Manager, Professional Services Federal",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/collibra-manager-professional-services-federal",
-    "description": "Headquarters: Remote, USA\n\n\nJoining Collibra’s Professional Services Team\nAt Collibra Public Sector (CPS), the Manager, Federal Professional Services is responsible for leading all services roles and functions to ensure the long-term success, adoption, and satisfaction of government clients. The role drives a cohesive customer journey, aligns services delivery with other CPS delivery to mission outcomes, and ensures operational excellence across the entire customer lifecycle. This role safeguard",
-    "date": "Wed, 28 Oct 2026 07:30:57 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
     "title": "DuckDuckGo: Senior Backend Engineer",
     "company": "",
     "location": "Remote",
@@ -90,21 +81,66 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Your Resource Group LLC: Remote Inside Sales",
+    "title": "Toptal: ML Inference Engineer – Terminal-Bench Task Designer",
     "company": "",
     "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/your-resource-group-llc-remote-inside-sales-1",
-    "description": "Headquarters: USA\n    URL: https://yourresourcegroup.com/\n\n\nAccount Executive - Inside SalesAbout USWe are a financial services start up focusing on helping US consumers improve their credit.Here you can feel good about helping people while working from home and earning a generous commission package. We offer a $500 USD training draw for your first month, no lead costs, and tons of growth opportunity.&nbsp;If you are a seasoned Sales Professional with near native English language proficiency, we",
-    "date": "Wed, 06 May 2026 18:04:24 +0000",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-ml-inference-engineer-terminal-bench-task-designer",
+    "description": "Headquarters: \n\n\nOverviewWe are building a benchmark that tests how well AI agents handle real expert work in a terminal. We are hiring ML inference and serving experts to turn real, paid tasks from their jobs into expert-level Terminal-Bench challenges. Each task includes the environment, a working solution, and an automated check that proves the result is correct.***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***Responsibilities• Design expe",
+    "date": "Wed, 04 Nov 2026 21:41:56 +0000",
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
+    "title": "Toptal: Operations Expert with Python for AI Supply Chain Task Design",
     "company": "",
     "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/yooli-full-time-software-engineer-position-react-and-rest-1",
-    "description": "Headquarters: Australia\n    URL: http://yooli.co\n\n\nJob description\n\nWe are seeking a highly skilled Senior Software Engineer to join our team and contribute to the transformative tech evolution in healthcare.&nbsp;\nThis critical role involves developing, integrating, and optimising our backend and database systems.&nbsp;\nYou will work closely with our Chief Engineer and CTO to build and refine our software solutions, ensuring they remain at the cutting edge of innovation.\n\n&nbsp;\nYour Role:\n\nDev",
-    "date": "Wed, 05 Aug 2026 05:52:46 +0000",
+    "url": "https://weworkremotely.com/remote-jobs/toptal-operations-expert-with-python-for-ai-supply-chain-task-design",
+    "description": "Headquarters: \n\n\nOverviewA fast-growing AI data company is hiring supply chain practitioners to design expert-level Terminal-Bench tasks for evaluating AI agents. You will turn real planning work into end-to-end challenges, each with files, a working solution and an automated correctness check. The goal is to build a benchmark grounded in real operations work.***THIS IS A TASK BASED COMPENSATION MODEL. PLEASE CHECK THE APPLICATION QUESTIONS FOR MORE DETAILS.***Responsibilities• Design expert-lev",
+    "date": "Wed, 04 Nov 2026 21:40:36 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Super Speciosa: Supply Chain & Operations Manager - LATAM",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/super-speciosa-supply-chain-operations-manager-latam",
+    "description": "Headquarters: Mexico City, Mexico\n    URL: http://superspeciosa.com\n\n\nLocation: Fully remote, based in Colombia, Mexico, or Argentina\nCompensation: USD $2,500-$4,500 per month ($30,000-$54,000 annually), depending on relevant experience\nSchedule: Monday-Friday, 9:00 a.m.-5:00 p.m. U.S. Eastern Time, with some flexibility\nReports to: CEO, working closely with the COO\nCommitment: Full-time; no direct reports\nOpenings: One; start as soon as practical\nAbout us\nSuper Organics is a portfolio of wellne",
+    "date": "Wed, 04 Nov 2026 21:16:31 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "VXI Global Solutions: US Remote Patient Care Advocate (Customer Service)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-patient-care-advocate-customer-service",
+    "description": "Headquarters: Los Angeles, CA\n    URL: https://vxi.com/\n\n\n\n\nAbout Us:&nbsp;\nWe are a dedicated team focused on improving access to affordable prescription medications for patients. By partnering with insurance companies, healthcare providers, and pharmacies, we work to reduce the financial burden of medications, ensuring that patients can access the treatments they need without excessive costs.&nbsp;\nRole Overview:&nbsp;\nAs a key member of our team, you will help patients navigate our Prescripti",
+    "date": "Wed, 04 Nov 2026 18:30:56 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "MANTECH: Requisitioning Agent",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/mantech-requisitioning-agent",
+    "description": "Headquarters: United States\n    URL: https://www.MANTECH.com\n\n\n\n                                                                    \n    \n        \n            \n                                    \n                \n                Description &amp; Requirements\n            \n\n                    \n\n            \n\n                    \n                    \n                        \n                                                                                                \n                         ",
+    "date": "Wed, 04 Nov 2026 17:00:37 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Mindrift: Physician (MD/DO) - Put Medical AI to the Test, Remote",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/mindrift-physician-md-do-put-medical-ai-to-the-test-remote",
+    "description": "Headquarters: Idaho, United States\n    URL: https://jobs.workable.com/company/r7muFeAbcksMFWASJu45jA/jobs-at-mindrift\n\n\nAbout the companyPaid per approved task, about $100/hr equivalent.&nbsp;One flat rate for every approved task.Built to fit around a clinical practice:Tasks estimated at about 10–20 hrs/week while the project is active; you choose when and how much to contributeContribute anytime, from anywhereNo patient contact, no malpractice exposure: you review written clinical casesAll revi",
+    "date": "Wed, 04 Nov 2026 17:00:34 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Crazy Maple Studio: Screenwriter - ReelShort (Contractor)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/crazy-maple-studio-screenwriter-reelshort-contractor",
+    "description": "Headquarters: Culver City, California, United States\n    URL: https://jobs.workable.com/company/kZSiaRVHB45MDzQ7znFJSV/jobs-at-crazy-maple-studio\n\n\nCompany Overview:Crazy Maple Studio is a fast-growing company based in the Bay Area and Los Angeles, focusing on mobile gaming, reading, and streaming. We are proud to have a global team that drives our innovation and success across diverse markets.Our flagship platform, ReelShort, is the #1 vertical streaming app in the U.S., with over 8 million DAU",
+    "date": "Wed, 04 Nov 2026 17:00:32 +0000",
     "source": "WeWorkRemotely"
   },
   {
@@ -117,11 +153,11 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Reframe Space Inc.: Digital Marketing Specialist - Organic Growth and Lead Generation",
+    "title": "Reframe Space Inc.: Digital Marketing - Organic Growth and Lead Generation Specialist",
     "company": "",
     "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/reframe-space-inc-digital-marketing-specialist-organic-growth-and-lead-generation",
-    "description": "Headquarters: California\n    URL: http://www.reframespace.com\n\n\nAbout Reframe Space\nReframe Space Inc. is a fast-growing, US-based office space innovation company focused on helping businesses optimize their workplaces. Our products include office sound pods and modular conference rooms that make office space more flexible and functional.\nWe grew rapidly the past year and are looking for someone to join our young, remote-focused team. We value initiative, clear communication, and consistent foll",
+    "url": "https://weworkremotely.com/remote-jobs/reframe-space-inc-digital-marketing-organic-growth-and-lead-generation-specialist",
+    "description": "Headquarters: California\n    URL: http://www.reframespace.com\n\n\n\n\n&nbsp;\n\n\n\n\n\n\nDigital Marketing Specialist\nAbout Reframe Space\nReframe Space Inc. is a growing, US-based company helping businesses create more flexible and functional workplaces through office sound pods and modular conference rooms.\nWe are looking for someone to join our remote team who takes initiative, communicates clearly, and follows through consistently.\nAbout the role\nWe’re looking for someone with B2B digital marketing exp",
     "date": "Wed, 04 Nov 2026 09:33:18 +0000",
     "source": "WeWorkRemotely"
   },
@@ -189,6 +225,15 @@
     "source": "WeWorkRemotely"
   },
   {
+    "title": "Semaphore: Senior Product Engineer",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/semaphore-senior-product-engineer",
+    "description": "Headquarters: Novi Sad\n    URL: https://semaphore.io/\n\n\nAbout Semaphore\nSemaphore is a remote-first software company building continuous integration and delivery (CI/CD) products for engineering teams. Our customers rely on Semaphore Cloud and our self-hosted enterprise products to build, test, and deliver software securely and reliably.\nWe have spent years building developer infrastructure at scale. We are now using that foundation to create new products and capabilities for a world in which so",
+    "date": "Tue, 06 Oct 2026 08:44:40 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
     "title": "ClickGUARD Inc.: RevOps Manager",
     "company": "",
     "location": "Remote",
@@ -198,48 +243,12 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Turtles: Customer Happiness Advocate (Remote - Canada)",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/turtles-customer-happiness-advocate-remote-canada",
-    "description": "Headquarters: Finland\n    URL: https://www.turtles.com/\n\n\nCustomer Happiness Advocate (Remote - Canada)\n\nJob description\nAre you looking to join a high growth tech company? Are you passionate about people? Then we are looking for you!\nWe are a small team with a big business! Our customers come first, and our Customer Support team is at the forefront!\nAs a member of this team, you would be responsible for answering customer inquiries through email, chat, and phone.\nSuccessful applicants will begi",
-    "date": "Tue, 03 Nov 2026 18:34:08 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "M-Kopa: Senior CRM Manager",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/m-kopa-senior-crm-manager",
-    "description": "Headquarters: Nairobi\n    URL: http://m-kopa.com\n\n\nJoin our expanding Product Growth team! We’re actively recruiting a Senior CRM Manager as we continue to scale at M-KOPA. Most senior growth hires get one channel and one pod for years. This role is built differently: you’ll own two of our core growth pods in your first year, then land where you’ve had the most impact. It’s a fast track to pod leadership, not a support seat.The Impact 💚You’ll drive the conversion growth that turns customers into",
-    "date": "Tue, 03 Nov 2026 17:09:02 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
     "title": "ELITEBRAIN: Photographer – AI Image Quality Evaluation (Remote, U.S.)",
     "company": "",
     "location": "Remote",
     "url": "https://weworkremotely.com/remote-jobs/elitebrain-photographer-ai-image-quality-evaluation-remote-u-s",
     "description": "Headquarters: Pembroke Pines, Florida, United States\n    URL: https://www.elitebrain.ai\n\n\nCompany DescriptionOur client is seeking photography professionals to support an initiative focused on evaluating and improving visual data quality for next-generation artificial intelligence systems. The project combines human creative expertise with detailed image assessment to help improve AI-generated visual content.&nbsp;&nbsp;Job DescriptionWe are seeking Photographers for a remote, contract opportuni",
     "date": "Tue, 03 Nov 2026 17:00:21 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "MANTECH: Quantum Research Scientist",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/mantech-quantum-research-scientist",
-    "description": "Headquarters: United States\n    URL: https://www.MANTECH.com\n\n\n\n                                                                    \n    \n        \n            \n                                    \n                \n                Description &amp; Requirements\n            \n\n                    \n\n            \n\n                    \n                    \n                        \n                                                                                                \n                         ",
-    "date": "Tue, 03 Nov 2026 17:00:19 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/custom-mechanical-solutions-quality-and-reliability-engineer",
-    "description": "Headquarters: \n    URL: http://cmswa.com\n\n\nCustom Mechanical Solutions delivers energy-efficient HVAC systems across the Pacific Northwest, with deep expertise in healthcare, education, data centers, and retrofit projects. We work with top manufacturers to meet performance and sustainability goals—always focused on quality, care, and progress.\nIf you're ready to grow your career, we’re glad you found us. At CMS, you’ll join a team that supports your development and gives you space to make an imp",
-    "date": "Tue, 03 Nov 2026 17:00:16 +0000",
     "source": "WeWorkRemotely"
   },
   {
@@ -324,6 +333,177 @@
     "source": "WeWorkRemotely"
   },
   {
+    "title": "Kiavi: Senior Applied Scientist, Property Analytics",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/kiavi-senior-applied-scientist-property-analytics",
+    "description": "Headquarters: \n    URL: http://www.kiavi.com\n\n\nTHE TEAM\nOur Property Analytics team is made up of 360-degree thinkers that analyze complex problems and come up with creative solutions. We love to combine advanced analytics and machine learning skills with deep domain knowledge about the business when creating solutions. You will work with some of the most fascinating data sets in the world, alongside a world-class group of product engineers, sales and marketing leaders, and business operators.\nP",
+    "date": "Thu, 05 Nov 2026 13:22:36 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "EXL: Quality Analyst - Clinical Validation Auditor (CVA), Healthcare",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/exl-quality-analyst-clinical-validation-auditor-cva-healthcare",
+    "description": "Headquarters: United States\n    URL: https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com:443/hcmUI/CandidateExperience/\n\n\nThis&nbsp;is&nbsp;a&nbsp;remote&nbsp;office&nbsp;opportunity.&nbsp;The&nbsp;Quality&nbsp;Analyst&nbsp;oversees&nbsp;work&nbsp;performed&nbsp;by&nbsp;the&nbsp;Clinical&nbsp;CVA&nbsp;auditors&nbsp;to&nbsp;ensure&nbsp;that&nbsp;EXL’s&nbsp;standard&nbsp;of&nbsp;accuracy&nbsp;is&nbsp;met.&nbsp;The&nbsp;analyst&nbsp;undertakes&nbsp;a&nbsp;quality&nbsp;review&nbsp;of&nbsp;random&nbsp",
+    "date": "Thu, 05 Nov 2026 13:22:35 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "DRFIRST COM INC: Senior Software Engineer",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/drfirst-com-inc-senior-software-engineer",
+    "description": "Headquarters: United States\n    URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=fc2a6c7e-ef54-4ed9-8c04-d5aca23f99e3\n\n\nSenior Software Engineer, eRx Enterprise and GadgetAbout DrFirstFor 25 years, DrFirst has empowered providers and patients to achieve better health through intelligent medication management. We improve healthcare workflows and help patients start and stay on therapy with end-to-end solutions that enhance prescription access, affordability, a",
+    "date": "Thu, 05 Nov 2026 13:22:33 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Mozaiq: Founding Account Executive",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/mozaiq-founding-account-executive",
+    "description": "Headquarters: \n    URL: https://careers.mozaiq.com\n\n\nAbout LiftPilotLiftPilot is an AI-powered website personalization platform for B2B companies. We help marketing and growth teams give every visitor a tailored website experience, turning more traffic into engagement, qualified pipeline and conversions.The product is built, enterprise-grade and in the market. We’re live with our first pilots and the results so far have been exceptional.The roleLiftPilot is early enough that how we sell is still",
+    "date": "Thu, 05 Nov 2026 13:22:31 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "National Claims Assistance Inc: Customer Service Claims Representative",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/national-claims-assistance-inc-customer-service-claims-representative",
+    "description": "Headquarters: United States\n\n\n\n    \nEmployment Type1099 Independent ContractorFlexible hours Full-Time/Part-TimeWhy Work Here?Positive impact fighting for fair treatment of others; unlimited income potential; excellent training environment; flexible scheduleWORK FROM HOME - VIRTUALLY HELP CLIENTS ALL OVER THE COUNTRY OR IN YOUR HOME STATEPlease apply if you live in the following states: AZ,CA,CO,GA,HI,IN,MD,MN,MT,NV,NJ,NM,NC,OH,OK,PA,RI,UT,VA,WV,WIWe’re looking for independent, ambitious, positi",
+    "date": "Thu, 05 Nov 2026 13:22:29 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "BillionToOne: Client Services Associate I, Oncology (East Coast)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/billiontoone-client-services-associate-i-oncology-east-coast",
+    "description": "Headquarters: New York, New York, United States\n    URL: https://www.billiontoone.com\n\n\nA Rare Opportunity to Shape the Future of Genomics\nJoin a team of brilliant, passionate innovators determined to transform healthcare. At BillionToOne, we've built a category-defining, publicly traded company on Nasdaq where transparency fuels trust, collaboration drives breakthroughs, and every contribution moves the needle on our mission to make life-changing diagnostics accessible to all. We don't just aim",
+    "date": "Thu, 05 Nov 2026 13:22:27 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/secure-privacy-senior-full-stack-web-developer-net-c-mongodb-angular-redux-ai-first-with-gdpr-experience",
+    "description": "Headquarters: Europe (DK)\n    URL: https://secureprivacy.ai\n\n\nSecure Privacy is expanding, and we’re looking for an experienced Senior Full-Stack Developer with expertise in .NET, C#, and MongoDB, along with GDPR experience, to join our team! You’ll work remotely with a diverse group of developers, helping us build cutting-edge data privacy solutions for global clients. This role focuses on creating and optimizing APIs and backend services. If you’re passionate about clean, maintainable code, we",
+    "date": "Thu, 05 Nov 2026 12:39:27 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Welltech: Product Growth Manager (Acquisition Funnels)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/welltech-product-growth-manager-acquisition-funnels",
+    "description": "Headquarters: Bulgaria\n    URL: http://welltech.com\n\n\nWho Are We?Welltech is a global wellness technology company with Ukrainian roots. Our mission is to build and scale wellness apps globally through state-of-the-art, tech-driven performance marketing.We are one of the most established players in the wellness app space, and we are accelerating. Over 25.5 million people across the world use our apps — Muscle Booster, Yoga-Go, and WalkFit — to build healthier habits, move more, and feel better ev",
+    "date": "Thu, 05 Nov 2026 06:51:49 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "TalentXD: Director of Affiliates",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/talentxd-director-of-affiliates",
+    "description": "Headquarters: Luanda, Angola\n    URL: http://talentxd.com\n\n\n\n\nDirector of AffiliatesOur client, a fast-growing online casino startup preparing for a new market launch, is seeking an experienced Director of Affiliates to take full ownership of affiliate strategy and growth. As one of the first key hires, this is a unique opportunity to shape the foundations of a brand set to stand out through innovation and exceptional player experience.The successful candidate will bring proven expertise in affi",
+    "date": "Thu, 05 Nov 2026 06:51:49 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "CapsLock: Creative Design Team Lead (AI & Performance Marketing)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-design-team-lead-ai-performance-marketing",
+    "description": "Headquarters: Chișinău, Remote, Anguilla\n    URL: http://capslock.global\n\n\nCapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary MarTech, and sales consulting, we deliver powerful, data-informed customer acquisition solutio",
+    "date": "Thu, 05 Nov 2026 06:51:49 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "CapsLock: Creative Design Team Lead (AI & Performance Marketing)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/capslock-creative-design-team-lead-ai-performance-marketing",
+    "description": "Headquarters: Europe, Anguilla\n    URL: http://capslock.global\n\n\nCapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries, primarily for large North American partners. By integrating our expertise in Digital Marketing, IT, Design, AI-driven analytics, proprietary MarTech, and sales consulting, we deliver powerful, data-informed customer acquisition solutions.At Caps",
+    "date": "Thu, 05 Nov 2026 06:51:49 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Teamswell: Marketing Assistant",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/teamswell-marketing-assistant",
+    "description": "Headquarters: El Salvador\n    URL: http://teamswell.co\n\n\nDescriptionMARKETING ASSSISTANT (Part time)Teamswell is a high-growth nearshore outsourcing company working for US companies. Our mission is to help small and medium-sized US businesses grow and become more profitable by having access to highly engaged, skilled, and experienced talent at a fair price, and to generate career opportunities for bilingual professionals in Latin America with fair compensation and opportunities for professional ",
+    "date": "Thu, 05 Nov 2026 06:51:49 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Omnidian: Senior Salesforce Developer, Field Service",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/omnidian-senior-salesforce-developer-field-service",
+    "description": "Headquarters: Bangalore\n    URL: http://omnidian.com\n\n\n\n\nAbout Omnidian\nOmnidian, Inc. is a fast-growing Series C tech-enabled service company revolutionizing performance assurance for the distributed solar and energy storage industries.&nbsp; Omnidian is building a more sustainable future for the planet through our passionate teams, our innovative technology, and by creating an amazing customer experience.\n\nWe are a certified B Corp that formed in the US in 2016 and have been growing globally s",
+    "date": "Thu, 05 Nov 2026 06:51:29 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "HighLevel: Software Development Engineer III (Fullstack ) - Workflows",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-iii-fullstack-workflows",
+    "description": "Headquarters: India\n    URL: http://gohighlevel.com\n\n\nAbout HighLevel:HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes.To date, businesses operating on HighLevel have generated over $7 billion in ecosystem value, demonstrating the impact of shared infrastructure at scale. By centrali",
+    "date": "Thu, 05 Nov 2026 06:51:29 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "HighLevel: Software Development Engineer II - CRM",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/highlevel-software-development-engineer-ii-crm",
+    "description": "Headquarters: India\n    URL: http://gohighlevel.com\n\n\n\nAbout HighLevel:HighLevel is an AI-powered business operating system that gives agencies, entrepreneurs and SMBs the infrastructure to build, automate and scale. Today, HighLevel supports SMBs across 150+ countries, fueling community-driven growth rooted in real customer outcomes.To date, businesses operating on HighLevel have generated over $7 billion in ecosystem value, demonstrating the impact of shared infrastructure at scale. By central",
+    "date": "Thu, 05 Nov 2026 06:51:29 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Appsierra Group: Zoho CRM Developer",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/appsierra-group-zoho-crm-developer",
+    "description": "Headquarters: India\n    URL: http://appsierra.com\n\n\nKey ResponsibilitiesManage and maintain existing Zoho applications and integrations.Perform system administration, configuration, and customization across Zoho products.Investigate, troubleshoot, and resolve bugs, system issues, and user-reported problems.Configure and optimize workflows, automation rules, blueprints, approvals, and business processes within Zoho CRM.Develop and enhance applications using Zoho Creator.Support and optimize marke",
+    "date": "Thu, 05 Nov 2026 06:51:29 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Seekerh: Consultor Dynamics 365 CRM - remoto",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/seekerh-consultor-dynamics-365-crm-remoto",
+    "description": "Headquarters: Curitiba, Puerto Rico, Brazil\n    URL: http://seekerh.com.br\n\n\nDescriçãoBuscamos um(a) consultor(a) com sólida experiência em Microsoft Dynamics 365 CRM para atuar como apoio especializado à equipe global de CRM do cliente final. A Oportunidade é PJ.\nO profissional irá atuar em atividades de configuração, desenvolvimento, suporte, manutenção, automação, integrações, análise funcional e técnica, além de apoiar usuários e equipes internas, trabalhando com autonomia e senso crítico de",
+    "date": "Thu, 05 Nov 2026 06:51:01 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Close: Senior Backend Engineer - Backend Platform (USA Only, 100% Remote)",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/close-senior-backend-engineer-backend-platform-usa-only-100-remote",
+    "description": "Headquarters: USA - Remote\n    URL: http://close.com\n\n\nAbout UsSince 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-first, AI-powered sales software designed to help you succeed and scale.We're bootstrapped and profitable which means we answer to our customers and play by our rules",
+    "date": "Thu, 05 Nov 2026 06:51:01 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
+    "title": "LIFT Enrichment: Remote Sales Representative for Education Company",
+    "company": "",
+    "location": "Remote",
+    "url": "https://weworkremotely.com/remote-jobs/lift-enrichment-remote-sales-representative-for-education-company",
+    "description": "Headquarters: Remote HQ\n    URL: http://www.liftenrichment.com\n\n\nSummaryLIFT Enrichment is hiring a Sales Representative to join our team!\nAbout the company: At LIFT Enrichment, we teach healthy culinary workshops to students at low-income schools across California. The company was founded in 2010, and our mission is to make healthy cooking FUN for children :) We partner with school districts and charter schools to bring our workshops to their students and help them form an essential skill that ",
+    "date": "Thu, 05 Nov 2026 06:49:19 +0000",
+    "source": "WeWorkRemotely"
+  },
+  {
     "title": "Talkspace: Client Support Supervisor",
     "company": "",
     "location": "Remote",
@@ -357,60 +537,6 @@
     "url": "https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
     "description": "Headquarters: NYC and TLV\n    URL: https://build.a.team/wwrfastrackreferral\n\n\nImagine choosing your projects, collaborating with the best, and keeping every dollar you earn.At A·Team, we’ve turned this vision into reality for top-tier independent software builders. Since May 2020, A·Teamers have earned over $108 million working on high-impact projects for companies backed by a16z, YC, Insight Partners, Tiger Global, Softbank, General Catalyst, and more.Why A·Team?High-paying, meaningful missions",
     "date": "Sun, 16 Jun 2024 17:30:51 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "General Dynamics Information Technology: Healthcare Fraud SME",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/general-dynamics-information-technology-healthcare-fraud-sme",
-    "description": "Headquarters: Maryland, United States\n    URL: https://www.gdit.com\n\n\nType of Requisition:RegularClearance Level Must Currently Possess:NoneClearance Level Must Be Able to Obtain:NonePublic Trust/Other Required:NACI (T1)Job Family:Functional ExpertsJob Qualifications:Skills:Fraud Analytics, Leadership, Medicaid, Medicare, Work CollaborativelyCertifications:NoneExperience:15 + years of related experienceUS Citizenship Required:NoJob Description:Make meaningful contributions that fuel critical out",
-    "date": "Sun, 01 Nov 2026 17:00:29 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Agent Alliance Inc.: Entry Level Sales Rep (remote work)",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/agent-alliance-inc-entry-level-sales-rep-remote-work",
-    "description": "Headquarters: Hartford, Connecticut, United States\n    URL: https://www.agent-alliance.com/\n\n\nWe are seeking an ambitious, motivated, and highly organized individual to join our growing team. In this role, you will consult virtually with individuals and families who have requested information about our long-term financial and family protection plans. If you are a strong communicator who thinks like an entrepreneur and thrives in a team environment, this role offers comprehensive paid training to",
-    "date": "Sun, 01 Nov 2026 17:00:24 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Chemtrade: Sales Account Manager",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/chemtrade-sales-account-manager",
-    "description": "Headquarters: Dallas, Texas, United States\n    URL: http://www.chemtradelogistics.com/main/\n\n\nJob Description\n&nbsp;\n&nbsp;\n&nbsp;\n\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\nPosition:&nbsp;Sales Account Manager - Water Solutions\nPrimary Location:&nbsp;Home Based -&nbsp; Texas\nSchedule:&nbsp;Monday to Friday, necessary travel\nReports To:&nbsp;Sales Director\n&nbsp;\nCompensation: $125,000- $135,000 + bonus + benefits. \nSalary ranges are determined by role, level, and location.&nbsp;&nbsp; The range reflects the ",
-    "date": "Sun, 01 Nov 2026 17:00:22 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Figure Lending: Licensed Partnerships Account Manager",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/figure-lending-licensed-partnerships-account-manager",
-    "description": "Headquarters: \n    URL: https://figure.com\n\n\nAbout Figure\nFigure Technology Solutions, Inc. (Nasdaq: FIGR; OPEN: FGRS) is the leading blockchain-native capital marketplace for the origination, funding, sale and trading of tokenized assets. More than 480 partners use its loan origination system and capital marketplace. Collectively, Figure and its partners have originated over $30 billion of loans to date, among other products. The fastest growing components are Figure Connect, its credit marketp",
-    "date": "Sun, 01 Nov 2026 17:00:21 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "CONNEXUS RESOURCE GROUP INC: Customer Service Representative - Work From Home",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/connexus-resource-group-inc-customer-service-representative-work-from-home",
-    "description": "Headquarters: \n    URL: https://connexusresourcegroup.com\n\n\nJob Details: Position Type: Full Time, Salary Range: $12.00 - $14.00Hourly, Customer Service Representative - Call Center Agent\n\nWe are in the “People Business”. What does that mean? It means we are constantly on the hunt for more of the best and brightest personalities to join our dynamic team. We think when it comes to customer service our agents should radiate our outgoing, friendly can-do attitudes. For the right person, that smile ",
-    "date": "Sun, 01 Nov 2026 17:00:19 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Teleperformance: Healthcare Customer Service Representative - Remote - TX, TN, PA, MI, FL Only",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/teleperformance-healthcare-customer-service-representative-remote-tx-tn-pa-mi-fl-only",
-    "description": "Headquarters: Florida, United States\n    URL: https://careers.teleperformanceusa.com/\n\n\nOverview\nThis position will be based in the state of Tennessee. Hires must reside within the state of Tennesse.\n&nbsp;\nAs a Healthcare Customer Support Specialist, you will serve as a primary point of contact for our clients, managing inbound and outbound communications with professional excellence. Utilizing a suite of web-based tools, you will efficiently resolve inquiries to ensure a seamless and positive ",
-    "date": "Sun, 01 Nov 2026 17:00:15 +0000",
     "source": "WeWorkRemotely"
   },
   {
@@ -465,24 +591,6 @@
     "url": "https://weworkremotely.com/remote-jobs/discord-senior-data-engineer-ads",
     "description": "Headquarters: Remote (U.S.)\n\n\nDiscord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: play video games. Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.Discord seeks a seasoned Data Engineer, focusing on our advertising product data. In this role, you w",
     "date": "Sun, 01 Nov 2026 07:30:53 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Tailscale: Commercial Legal Counsel",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/tailscale-commercial-legal-counsel",
-    "description": "Headquarters: Remote (United States)\n\n\nThank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. We encourage you to help us break that statistic!\nAbout Tailscale&nbsp;\nTailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect peopl",
-    "date": "Sun, 01 Nov 2026 07:30:45 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Axon: Sr Technical Support Representative",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/axon-sr-technical-support-representative",
-    "description": "Headquarters: Canada\n    URL: http://www.axon.com\n\n\nJoin Axon and be a Force for Good.\nAt Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of devices and cloud software. Like our products, we work better together. We connect with candor and care, seeking out diverse perspectives from our customers, communities and each other.Life at Axon is fast-paced, challenging and meaningful. Here, you’ll take ownership a",
-    "date": "Sat, 31 Oct 2026 16:00:16 +0000",
     "source": "WeWorkRemotely"
   },
   {
@@ -585,87 +693,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Socure: Technical Content Marketing Manager",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/socure-technical-content-marketing-manager",
-    "description": "Headquarters: \n    URL: https://www.socure.com/\n\n\nAbout the role\nThis is an employment marketing role for someone who can make exceptional engineers want to work at Socure. Socure is building AI-native infrastructure for identity, fraud prevention, and trust, and we need your help getting that engineering story out to the places where great technical talent discovers ideas, follows builders, and finds its next challenge.\nYou will work closely with engineers, technical leaders, recruiting, and ma",
-    "date": "Mon, 02 Nov 2026 18:18:39 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "CrowdStrike: Regional Principal Analyst, Falcon Complete (Remote)",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/crowdstrike-regional-principal-analyst-falcon-complete-remote",
-    "description": "Headquarters: Missouri, United States\n    URL: http://www.crowdstrike.com\n\n\nAs a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native platform. We work on large scale distributed systems, processing almost 3 trillion events per day and this traffic is growing daily. Our customers ",
-    "date": "Mon, 02 Nov 2026 17:00:19 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "American Straight A Academy: Computer Science Instructor",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/american-straight-a-academy-computer-science-instructor",
-    "description": "Headquarters: United States\n    URL: https://www.asaaedu.com/home\n\n\n\n  American Straight A Academy (ASAA)Part-Time Remote High School Science Teachers Wanted&nbsp;Teach globally. Work flexibly. Join a fast-growing international online school delivering American high school education to students worldwide.&nbsp;Open Subjects (High School Level)Subject : AP Computer Science A\n&nbsp;Class Schedule (Pacific Time)\n10:00 PM to 00:30 AM&nbsp;option1:&nbsp; Sun/Tue / Thu&nbsp;option2:&nbsp; Mon/WedFlexi",
-    "date": "Mon, 02 Nov 2026 17:00:17 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Ninja Partners LLC: Customer Service Representative II (Seasonal)",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/ninja-partners-llc-customer-service-representative-ii-seasonal",
-    "description": "Headquarters: Texas, United States\n    URL: https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=41a778b2-3a5e-42c7-9770-87f62458fb3e&amp;ccId=9200871460505_2\n\n\nWork Setup:&nbsp;Remote/WAHEquipment:&nbsp;(BYOD) Bring-Your-Own-DeviceSalary:&nbsp;$16/hrThe Customer Service Representative II is responsible for handling incoming customer inquiries via phone, email, or chat and resolving customer issues in a timely and professional manner.&nbsp;What does a day in the life ",
-    "date": "Mon, 02 Nov 2026 17:00:15 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Forward Push Law Firm Marketing: Marketing Specialist",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/forward-push-law-firm-marketing-marketing-specialist",
-    "description": "Headquarters: United States\n    URL: https://forwardpush.com/\n\n\nMarketing Specialist\nRemote Worldwide · Full-Time · 8:00am to 5:00pm Eastern Time · 90-Day Paid Trial to Start\nRequired: 4+ years at a marketing agency (a company that serves multiple clients; in-house or freelance-only experience does not count) and fluent English (C1 or above).\nThe Role: We are hiring a Marketing Specialist to work across both client and Forward Push marketing priorities, taking approved strategy, content, and dir",
-    "date": "Mon, 02 Nov 2026 16:08:57 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "WelcomeHome Software: Senior Software Engineer",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/welcomehome-software-senior-software-engineer",
-    "description": "Headquarters: Atlanta, Georgia\n    URL: https://www.welcomehomesoftware.com/homecarecrm?utm_term=home%20care%20software&amp;utm_campaign=Lead+Gen+-+Home+Care+-+Branded+%26+General&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=3279896849&amp;hsa_cam=22158696391&amp;hsa_grp=179100793812&amp;hsa_ad=730236934988&amp;hsa_s\n\n\nAbout WelcomeHome\nWelcomeHome is an Atlanta-based SaaS provider with the mission to build the best Customer Relationship Management (CRM) platform in the Senior Living an",
-    "date": "Mon, 02 Nov 2026 15:51:54 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Resolv.Global: Seasonal Customer Care Representative",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/resolv-global-seasonal-customer-care-representative",
-    "description": "Headquarters: Ciudad de México, Mexico\n    URL: https://resolv.global\n\n\n﻿We are seeking customer-focused and dependable Seasonal Customer Care Representatives to join our growing remote team.In this role, you will support customers across phone, email, webchat, and social channels, helping resolve inquiries related to orders, billing, product information, returns, and general account support.We’re looking for strong communicators who can deliver professional, empathetic service while thriving in",
-    "date": "Mon, 02 Nov 2026 13:19:43 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "LOTARO: Head of Lead Generation | Remote (m/w/d)",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/lotaro-head-of-lead-generation-remote-m-w-d",
-    "description": "Headquarters: Germany Munich\n\n\nAls Head of Lead Generation verantwortest du den Aufbau, die Performance und die Weiterentwicklung unserer Leadgenerierung.Dein Schwerpunkt liegt auf Cold Calling. Du bringst fundierte praktische Erfahrung aus der telefonischen Kaltakquise mit, weißt, wie erfolgreiche Outbound-Prozesse funktionieren, und kannst dieses Wissen an ein Team weitergeben.Du bist sowohl operativ als auch strategisch tätig: Du führst und trainierst unsere Cold Caller, optimierst Prozesse u",
-    "date": "Mon, 02 Nov 2026 10:31:22 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Smartsheet: Senior Channel Account Manager",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/smartsheet-senior-channel-account-manager",
-    "description": "Headquarters: -REMOTE, USA-\n\n\nFor over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.Smartsheet is see",
-    "date": "Mon, 02 Nov 2026 07:31:23 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
     "title": "Upgrade: Dealer Development Manager (Portland, OR)",
     "company": "",
     "location": "Remote",
@@ -680,15 +707,6 @@
     "location": "Remote",
     "url": "https://weworkremotely.com/remote-jobs/smartsheet-principal-software-engineer-remote-eligible-in-bulgaria",
     "description": "Headquarters: -REMOTE, BULGARIA-\n\n\nFor over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it’s what we show up for every day.We are looki",
-    "date": "Mon, 02 Nov 2026 07:31:15 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
-    "title": "Feedzai: Risk&AI Manager",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/feedzai-risk-ai-manager",
-    "description": "Headquarters: Colombia Remote\n\n\nAt Feedzai, we're building a world of safer money. A world where financial institutions move faster than criminals. Where the payments that fund real lives through salaries, savings, and businesses are protected in real time. We use trusted AI to detect and prevent financial crime, fraud, and money laundering at scale: the world's top banks, payment networks, and acquirers trust our technology to safeguard more than one billion consumers and $9 trillion in payment",
     "date": "Mon, 02 Nov 2026 07:31:15 +0000",
     "source": "WeWorkRemotely"
   },
@@ -783,15 +801,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Descript: Software Engineer, Infrastructure",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/descript-software-engineer-infrastructure",
-    "description": "Headquarters: San Francisco, CA or Remote, US\n\n\nPlatform owns the foundation the company runs on: compute and deployment, reliability and on-call, CI/CD and monorepo health, developer environments, the infrastructure that model training and inference run on, and the security boundaries around all of it.\nAI and agent tooling is the clearest example. You will contribute to how models are trained and served here, as well as how agents work inside our codebase: the environments they run in, the veri",
-    "date": "Mon, 02 Nov 2026 07:31:04 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
     "title": "Wrike: CloudOps Engineer (Network Engineer)",
     "company": "",
     "location": "Remote",
@@ -855,15 +864,6 @@
     "source": "WeWorkRemotely"
   },
   {
-    "title": "Storyblok: Salesforce Lead - USA",
-    "company": "",
-    "location": "Remote",
-    "url": "https://weworkremotely.com/remote-jobs/storyblok-salesforce-lead-usa",
-    "description": "Headquarters: Remote\n\n\nStoryblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond.\nLegendary brands like Virgin Media O2, Oatly, and TomTom use Storyblok to make a bigger, faster market impact.\n&nbsp;\nWHAT IS IN IT FOR YOU\nYou will be joining a growing company where you can contribute to many “firsts”. Plus these benefits:\n\nMonthly ",
-    "date": "Fri, 23 Oct 2026 07:31:21 +0000",
-    "source": "WeWorkRemotely"
-  },
-  {
     "title": "Bybit: Blockchain Risk Control Lead",
     "company": "",
     "location": "Remote",
@@ -898,6 +898,51 @@
     "description": "Headquarters: NY, United States\n    URL: https://www.cloverhealth.com/\n\n\n\n\nChief Actuary\n\nRemote - USA\n\n\n\n\n\nThe Finance team at Clover Health is a group of strategic partners providing financial and operational insights that drive informed decision-making and efficient capital allocation. Guided by our core values of excellence, accountability, and collaboration, we provide actionable recommendations to improve health outcomes and reduce costs while ensuring financial integrity and innovation.Ac",
     "date": "Fri, 02 Oct 2026 01:24:37 +0000",
     "source": "WeWorkRemotely"
+  },
+  {
+    "title": "Entry Level Scheduling &amp; Coordinating Reservations Online",
+    "company": "Destination Careers",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+    "description": "About Us:\nWe are a client coordination and services company that supports individuals and organizations with scheduling, reservations, and service-related logistics. We focus on clear communication, organized workflows, and delivering a consistent, high-quality client experience.\n&nbsp;\nPosition Overview:\nThe Scheduling &amp; Reservations Coordinator plays a key role in supporting clients by managing scheduling requests, coordinating reservations, and maintaining accurate records. This position ",
+    "date": "2026-11-04T00:00:06+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "M&A Praktikum Intern",
+    "company": "Vogel",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-ma-praktikum-intern-vogel-1137677",
+    "description": "Deine RolleDie Steuerberatung erlebt eine Konsolidierungswelle: Tausende HÃ¤user suchen in den nÃ¤chsten Jahren eine Nachfolge, und nur wenige KÃ¤ufer prÃ¼fen sie mit derselben Sorgfalt wie ein professionelles Transaktionsteam. Hier lernst du M&amp;A auf der KÃ¤uferseite, an echten Transaktionen und von der ersten Ansprache bis nach dem Abschluss.Vogel berÃ¤t mehrere Tausend mittelstÃ¤ndische Unternehmen in steuerlichen, kaufmÃ¤nnischen und strategischen Fragen und erwirbt eigenstÃ¤ndige Beratun",
+    "date": "2026-11-03T16:00:25+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Paid Media Manager US",
+    "company": "Kyra",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-paid-media-manager-us-kyra-1137675",
+    "description": "About KyraKyra is an enterprise influencer marketing platform working with brands like SharkNinja, Coach, H&amp;M, Ray-Ban, and Converse. Our platform manages the full lifecycle â creator discovery, campaign management, content review, payments, analytics, and AI-powered intelligence across TikTok, Instagram, and YouTube.The Paid Media Manager will work closely with our Director of Paid Strategy to continually optimise paid campaign performance across different channels for internal and extern",
+    "date": "2026-11-03T16:00:12+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Sales Operations Analyst",
+    "company": "Calabrio",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-sales-operations-analyst-calabrio-1137674",
+    "description": "Location: US- Remote. Must be in EST or CT time zone only. VerintÂ is an innovative, fast-paced, growing software company that delivers integrated workforce optimization software for todayâs multi-channel contact centers. We are in an exciting growing phase and now is an excellent time to join and help us develop even further as a company.Â VerintÂ is looking for aÂ Sales Operations AnalystÂ to join our RevenueÂ Operations team.Â This role would be responsible for analyzing sales data, optimiz",
+    "date": "2026-11-03T16:00:05+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Tech lead",
+    "company": "Ringbook Limited",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-tech-lead-ringbook-limited-1137673",
+    "description": "What Youâll DoãDesign the architecture of the application and make key technical decisions.ãBuild and maintain scalable features across the Ringbook web application.ãIntegrate AI capabilities throughout the platform to create innovative features.ãDevelop clean, responsive, and intuitive frontend interfaces.ãDesign and optimize backend APIs, database schemas, and data pipelines.ãCollaborate closely with the CEO on product and technical strategies.ãContribute to code reviews, archi",
+    "date": "2026-11-03T14:53:55+00:00",
+    "source": "RemoteOK"
   },
   {
     "title": "Senior Property Manager ENG",
@@ -1071,15 +1116,6 @@
     "source": "Remotive"
   },
   {
-    "title": "Account Executive",
-    "company": "Huzzle",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-account-executive-huzzle-1137573",
-    "description": "About HuzzleAt Huzzle, we connect exceptional talent with exciting opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients range from startups and digital agencies to tech platforms in industries such as SaaS, MarTech, FinTech, and EdTech. Unlike traditional outsourcing agencies, we place you directly with a client, where you become an in-house member of their team and a valued contributor to their success. Job SummaryÂ Weâre seeking an experienced Acco",
-    "date": "2026-10-26T08:00:12+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Senior Software Engineer LATAM",
     "company": "Wagmo",
     "location": "Remote",
@@ -1104,24 +1140,6 @@
     "url": "https://remoteok.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
     "description": "Consequential Work. Dedicated People.About OnebriefOnebrief builds collaboration and AI-powered workflow software for military planning and operational coordination.Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when th",
     "date": "2026-10-24T00:00:02+00:00",
-    "source": "RemoteOK"
-  },
-  {
-    "title": "Sales Development Representative German Speaking",
-    "company": "Huzzle",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
-    "description": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team.About the companyOur client is a fast-growing P",
-    "date": "2026-10-23T16:00:18+00:00",
-    "source": "RemoteOK"
-  },
-  {
-    "title": "Accounting and Implementation Manager",
-    "company": "Aprio",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-    "description": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. &nbsp;Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. &nbsp;By bringing together proven expertise, deep understanding, and strategic foresight for fast-growing industries, Aprio ensures clients are prepared for wherever life or business may take them. Discover a top-rated culture, vast growth opportunities and your next big",
-    "date": "2026-10-23T08:00:05+00:00",
     "source": "RemoteOK"
   },
   {
@@ -1152,24 +1170,6 @@
     "source": "RemoteOK"
   },
   {
-    "title": "Senior Finance Manager Management Accountant",
-    "company": "D2B",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-senior-finance-manager-management-accountant-d2b-1137556",
-    "description": "Position\t\t\t\t: Senior Finance Manager / Management AccountantÂ Salary\t\t\t\t: PHP 90,000 - PHP 110,000 /monthWorking Hours &amp; Conditions: Observing AU business hoursHolidays\t\t\t\t: Observing AU holidaysROLE OVERVIEW:Our client is an end-to-end B2B SaaS platform delivering specialized workforce management software designed for operational precision across scheduling, compliance, time tracking, invoicing, and payroll. Operating in a high-volume, multi-entity environment undergoing rapid international",
-    "date": "2026-10-22T08:00:04+00:00",
-    "source": "RemoteOK"
-  },
-  {
-    "title": "Accounting & Finance Manager",
-    "company": "Political Asylum Lawyers",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-accounting-finance-manager-political-asylum-lawyers-1137555",
-    "description": "Who We ArePolitical Asylum Lawyers is a Houston-based immigration law firm focused on asylum cases. We help immigrants all over the United States secure their futures here through asylum, combining exceptional standards with deep respect for the human reality behind every case.Â Our work changes lives. The standards we maintain, the discipline behind our work, and the way we show up every day can determine whether someone is able to stay safe and build a stable future in the United States. That ",
-    "date": "2026-10-22T00:00:21+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Accounting Operations",
     "company": "Plaid",
     "location": "Remote",
@@ -1197,20 +1197,11 @@
     "source": "RemoteOK"
   },
   {
-    "title": "Risk Analyst",
-    "company": "Pavago",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-risk-analyst-pavago-1137548",
-    "description": "Risk Analyst / Risk Manager â RemoteEnterprise Risk | Compliance | Governance | Financial &amp; Operational RiskPosition Type: Full-Time, Remote Working Hours: U.S. Client Business Hours (with flexibility for reporting cycles, audits, and incident response)About the RoleAt Pavago, weâre hiring on behalf of one of our clients for a Risk Analyst / Risk Manager to identify, assess, monitor, and mitigate financial, operational, compliance, and enterprise risks across the organization.This is a h",
-    "date": "2026-10-20T08:00:05+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Senior Software Engineer",
     "company": "Sothebyâs",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-senior-software-engineer-sothebys-1137545",
-    "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...Please mention the word **EVALUATIVE** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can searc",
+    "description": "Remote - Established in 1744, Sothebyâs promotes access and ownership of exceptional art and luxury objects through auctions, private sales and retail. Our deep expertise across 70 selling categories is supported by a leading technology platform and a global network of special...Please mention the word **EVALUATIVE** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can searc",
     "date": "2026-10-18T19:00:02+00:00",
     "source": "RemoteOK"
   },
@@ -1219,7 +1210,7 @@
     "company": "Rain",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-rain-1137544",
-    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta...Please mention the word **COVENANT** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search ",
+    "description": "Remote - Rain is the world's first AI Financial Health Platform, serving 3.5 million employees at leading organizations like McDonald's, Marriott, and T-Mobile. Rain works in the background to optimize every employee's financial life to prevent shortfalls and build long-term sta...Please mention the word **COVENANT** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search ",
     "date": "2026-10-18T18:00:01+00:00",
     "source": "RemoteOK"
   },
@@ -1264,7 +1255,7 @@
     "company": "Apryse",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-    "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/applyPlease mention the word **LEVERAGE** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/applyPlease mention the word **LEVERAGE** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
     "date": "2026-10-17T08:00:25+00:00",
     "source": "RemoteOK"
   },
@@ -1296,30 +1287,12 @@
     "source": "RemoteOK"
   },
   {
-    "title": "SAP RE FX Consultant",
-    "company": "Yopeso Romania SRL",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-sap-re-fx-consultant-yopeso-romania-srl-1137535",
-    "description": "Yopeso has been developing a diverse range of software products, from large-scale applications to smaller solutions, for 20 years. With a growing team of over 300 employees across five locations, we are dedicated to fostering a culture of growth, transparency, and professionalism.At Yopeso, we value authenticity, curiosity, and ambition. These values drive us to build strong connections within our community and with our partners, ensuring trust, integrity, and transparency in all our business pr",
-    "date": "2026-10-16T16:00:33+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "APAC Python",
     "company": "Kodland",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-apac-python-kodland-1137534",
     "description": "AboutÂ theÂ Company:KodlandÂ isÂ anÂ internationalÂ onlineÂ codingÂ andÂ digitalÂ skillsÂ schoolÂ thatÂ helpsÂ childrenÂ agedÂ 5Â toÂ 17Â takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ worldÂ ofÂ programmingÂ andÂ technology.AboutÂ theÂ Role:AreÂ youÂ aÂ passionateÂ programmerÂ whoÂ lovesÂ codingÂ andÂ computerÂ games?Â WouldÂ youÂ likeÂ toÂ helpÂ childrenÂ createÂ theirÂ firstÂ projectsÂ andÂ takeÂ theirÂ firstÂ stepsÂ intoÂ theÂ programmingÂ worldÂ byÂ teachingÂ themÂ Python?Â IfÂ so,Â thisÂ opportunit",
     "date": "2026-10-16T16:00:26+00:00",
-    "source": "RemoteOK"
-  },
-  {
-    "title": "Associate Data Scientist",
-    "company": "AlgaeCal",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-    "description": "DescriptionMachine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive on uncovering hidden patterns, validating hypotheses, and embedding machine learning models into real-world AI applications. If that sounds like you - read on.AlgaeCal is looking for a top-tier Associate Data Scientist who can turn raw infor",
-    "date": "2026-10-16T00:00:56+00:00",
     "source": "RemoteOK"
   },
   {
@@ -1350,24 +1323,6 @@
     "source": "RemoteOK"
   },
   {
-    "title": "Project and Quality Administrator Work From Home Dayshift",
-    "company": "Twoconnect",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-project-and-quality-administrator-work-from-home-dayshift-twoconnect-1137524",
-    "description": "We are seeking a Project and Quality Administrator (Quality Systems) to provide project administration and data coordination support across multiple active projects. The role will maintain accurate project records, coordinate quality documentation, monitor outstanding tasks, prepare reports, and support audit readiness while working closely with internal teams to ensure project information remains complete, accurate, and up to date.Provide project administration and data coordination support acr",
-    "date": "2026-10-15T08:00:11+00:00",
-    "source": "RemoteOK"
-  },
-  {
-    "title": "Sr REACT NATIVE",
-    "company": "Somnio Software",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-sr-react-native-somnio-software-1137523",
-    "description": "QuÃ© es DeazyDeazy es una plataforma/marketplace de UK que conecta empresas que necesitan desarrollo de software con agencias de desarrollo en todo el mundo. Ellos consiguen el cliente, definen el proyecto y luego lo asignan a una agencia como Somnio para ejecutarlo. BÃ¡sicamente son un intermediario entre el cliente final y nosotros.CÃ³mo funciona el modeloDeazy factura al cliente final a su propia tarifa (en este caso estÃ¡n hablando de EUR 47/h, aunque todavÃ­a hay que confirmar si ese es el ",
-    "date": "2026-10-15T00:00:19+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Contracts Manager Federal",
     "company": "Akicita Federal, LLC",
     "location": "Remote",
@@ -1384,15 +1339,6 @@
     "description": "[$170k - $200k] About Mitre Media\nMitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data,",
     "date": "2026-10-14T20:33:44",
     "source": "Remotive"
-  },
-  {
-    "title": "Payment Operations Specialist",
-    "company": "Utopia",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-payment-operations-specialist-utopia-1137514",
-    "description": "UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences.We develop private villa retreats in beautiful locations around the world, each with high-end service.Â UtopiaÂ also offers a wider ecosystem of leisure experiences and services available both to those staying on property and to external visitors.UtopiaÂ designs and builds its properties in-house. Our projects span the full journey: from concept and architecture to construction, i",
-    "date": "2026-10-14T16:00:05+00:00",
-    "source": "RemoteOK"
   },
   {
     "title": "AI Trainer",
@@ -1422,15 +1368,6 @@
     "source": "RemoteOK"
   },
   {
-    "title": "Graphic Designer & Video Editor",
-    "company": "BlueTuskr",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-graphic-designer-video-editor-bluetuskr-1137507",
-    "description": "DescriptionBlueTuskr is a full-service e-commerce growth agency built exclusively for e-commerce brands. We combine paid media, owned media, creative, and analytics to help our clients scale profitably. Our team is made up of specialists who are deeply invested in their craft â and in the success of the brands they serve.This isn't a \"jack of all trades\" environment. We hire people who are exceptional at what they do, then give them the resources and autonomy to do it well.The OpportunityWe're",
-    "date": "2026-10-13T00:00:06+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Technical Customer Support",
     "company": "QuickMail",
     "location": "Remote",
@@ -1449,30 +1386,12 @@
     "source": "Remotive"
   },
   {
-    "title": "Marketing and Sales Administrator",
-    "company": "Hunt St",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
-    "description": "Looking for Philippines-based candidatesJob Role: \t\t\tMarketing and Sales AdministratorCompensation range: \t$1,500 AUD - $2,000 AUD / MonthlyEngagement type:\tIndependent Contractor AgreementWork Schedule: \tThis role is expected to align with the AU business hours (approx. 9 AM - 5 PM, Monday to Friday) for collaboration, but as a contractor, youâll have flexibility in how you manage your time.Who We Are: At Hunt St, we help Australian companies hire top remote talent in the Philippines. For thi",
-    "date": "2026-10-11T08:00:06+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Technical Account Manager",
     "company": "DEUNA",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-technical-account-manager-deuna-1137482",
     "description": "About DEUNA&nbsp;ð§¡\n&nbsp;\nDEUNA is a rapidly growing startup revolutionizing global commerce with ATHIA, our AI-powered orchestration and payments platform that helps large enterprises boost approval rates, reduce costs, and unlock new revenue. Built by the team behind DEUNAâthe fastest-growing Commerce OS in Latin AmericaâATHIA combines payment intelligence, checkout optimization, and data orchestration in one powerful solution.\n&nbsp;\nWith deep integrations across 300+ PSPs and alternat",
     "date": "2026-10-11T00:00:05+00:00",
-    "source": "RemoteOK"
-  },
-  {
-    "title": "Junior Sales Development Representative IT Industry",
-    "company": "Huzzle",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-junior-sales-development-representative-it-industry-huzzle-1137480",
-    "description": "About HuzzleAt Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team.Role Type: Full-timeEngagement: Full-time (Offs",
-    "date": "2026-10-10T00:00:17+00:00",
     "source": "RemoteOK"
   },
   {
@@ -1503,15 +1422,6 @@
     "source": "RemoteOK"
   },
   {
-    "title": "Product Design Lead",
-    "company": "Fuel50",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-    "description": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI to help people and organisations take their next step.Â We are looking for a Product Design Lead to shape the next chapter of our product experience and design organisation.Â This is a senior player-coach role. You will lead and develop our p",
-    "date": "2026-10-09T08:00:04+00:00",
-    "source": "RemoteOK"
-  },
-  {
     "title": "Inside Sales Contractor",
     "company": "Credit Wellness, LLC",
     "location": "Worldwide",
@@ -1519,15 +1429,6 @@
     "description": "[OTE $25k - $35k] About Us\nWe are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals.\nDuring our training period we offer a guaranteed training stipend wh",
     "date": "2026-10-08T21:47:32",
     "source": "Remotive"
-  },
-  {
-    "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
-    "company": "Tierarzt Plus Partner",
-    "location": "Remote",
-    "url": "https://remoteok.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
-    "description": "Einleitung Wir suchen ab sofort tatkrÃ¤ftige UnterstÃ¼tzung fÃ¼r unser Team&nbsp;in Vollzeit!&nbsp;FÃ¼r unsere âTierhalterbesitzer:innen bist du der erste Anlaufpunkt und das beruhigende LÃ¤cheln am Telefon. Du hÃ¤ltst unserem Team den RÃ¼cken frei, damit wir uns voll und ganz auf die Behandlung der Tiere konzentrieren kÃ¶nnen.Da wir keine klassische Rezeption haben, kann die TÃ¤tigkeit remote ausgefÃ¼hrt werden.Wir freuen uns auf deine Bewerbung!Deine AufgabenDu nimmst alle eingehenden Anrufe",
-    "date": "2026-10-07T16:00:05+00:00",
-    "source": "RemoteOK"
   },
   {
     "title": "Project Manager",
@@ -1543,25 +1444,16 @@
     "company": "RedMimicry",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
-    "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,...Please mention the word **THRIFTY** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search these word",
+    "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns fragmented,...Please mention the word **THRIFTY** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search these word",
     "date": "2026-10-05T13:00:02+00:00",
     "source": "RemoteOK"
-  },
-  {
-    "title": "Freelance Writer",
-    "company": "IAPWE",
-    "location": "Worldwide",
-    "url": "https://remotive.com/remote-jobs/writing/freelance-writer-1185979",
-    "description": "[$50-$75 /hour] Our organization is seeking content writers to create articles and blog posts on a variety of topics.\n \nThe rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour).\n \nSome topics you may be asked to write about include the following (you can always turn down a topic if you do not feel comfortable writing about it, however if you have experience or expert",
-    "date": "2026-10-04T16:53:34",
-    "source": "Remotive"
   },
   {
     "title": "Software Engineer",
     "company": "Prenosis",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-    "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...Please mention the word **STELLARLY** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search",
+    "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created and validated the fi...Please mention the word **STELLARLY** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search",
     "date": "2026-09-23T14:00:02+00:00",
     "source": "RemoteOK"
   },
@@ -1624,7 +1516,7 @@
     "company": "Mirantis",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-software-engineer-mirantis-1137387",
-    "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...Please mention the word **SEAMLESS** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search ",
+    "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining open source innovatio...Please mention the word **SEAMLESS** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search ",
     "date": "2026-09-12T14:00:03+00:00",
     "source": "RemoteOK"
   },
@@ -1651,7 +1543,7 @@
     "company": "Benzinga",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-ai-engineer-data-apis-benzinga-1137224",
-    "description": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f...Please mention the word **CHARMINGLY** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can searc",
+    "description": "Remote - Before you read further: applying to this role requires a Loom video walkthrough under 5 minutes of the best thing you have built, plus a repo or live link. Tell us the hardest problem you hit and how you solved it. Focus on architecture decisions and tradeoffs, not a f...Please mention the word **CHARMINGLY** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can searc",
     "date": "2026-08-30T21:00:01+00:00",
     "source": "RemoteOK"
   },
@@ -1660,7 +1552,7 @@
     "company": "The AI Whistleblower Initiative",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-principal-engineer-the-ai-whistleblower-initiative-1137162",
-    "description": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. We do this by integrating the ecosystem of lawyers, AI researchers, AI advoc...Please mention the word **EARNESTNESS** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search ",
+    "description": "Remote - About AIWIAIWI is an independent non-profit that exists to ensure that insiders at frontier AI companies can speak up safely and effectively when they see something that should be addressed. We do this by integrating the ecosystem of lawyers, AI researchers, AI advoc...Please mention the word **EARNESTNESS** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search ",
     "date": "2026-08-27T09:00:02+00:00",
     "source": "RemoteOK"
   },
@@ -1687,7 +1579,7 @@
     "company": "Salesforge",
     "location": "Remote",
     "url": "https://remoteok.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-    "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo...Please mention the word **EMPATHY** and tag RNDAuODAuMjEyLjI0OQ== when applying to show you read the job post completely (#RNDAuODAuMjEyLjI0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to f",
+    "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo...Please mention the word **EMPATHY** and tag RMTMuODcuMjE2LjExNQ== when applying to show you read the job post completely (#RMTMuODcuMjE2LjExNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to f",
     "date": "2026-08-25T07:00:03+00:00",
     "source": "RemoteOK"
   },
@@ -1815,6 +1707,96 @@
     "url": "https://remoteok.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
     "description": "Limited-Time Offer Done For You Email Marketing $599Only$1 Start for just $1 â87% off ends soon! $599 $79 to launch your email marketing. Start for just $79 ââ¦ Newsletter Assistant Features Pricing Blog Sign in My account Get AWeber FreeSign inEmail marketingEmail automationAI Page BuilderEcommerceWeb push notificationsAI Signup Form BuilderAI Writing AssistantLink in Bio pageStandard pricingHigh volume pricingBloggersCoachesEtsy shopsNewslettersYouTubersContact Customer Solutions 24/7AWeb",
     "date": "2026-08-04T23:02:29+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Marketing Specialist",
+    "company": "INNERGY",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-marketing-specialist-innergy-1136094",
+    "description": "INNERGY is transforming the woodworking industry with purpose built, cloud based ERP software designed exclusively for custom manufacturers. Our platform helps businesses operate smarter, faster, and more efficiently while seamlessly connecting design, production, and delivery for teams creating architectural millwork, cabinetry, and casework.What truly sets INNERGY apart is our people. Founded in 2016, we are a globally distributed team of 200 plus professionals united by deep software expertis",
+    "date": "2026-08-04T15:06:47+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Data Analyst",
+    "company": "SEAhub Asia",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-data-analyst-seahub-asia-1136222",
+    "description": "Build What's Next With UsAt SEAhub Asia, your career isn't just a job â it's a launchpad.We move fast, think big, and build futures together.What's waiting for you here?Remote-first roles built for freedom and flexibilityLearning &amp; Development That Sharpens Skills And Accelerates CareersCompetitive salary packages for high performersWellbeing perks that help you thrive inside and outside workA team that supports, celebrates, and wins as oneand we're just getting started.We're growing acros",
+    "date": "2026-08-04T14:20:29+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Clinical Coordination Manager",
+    "company": "Enable Dental",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-clinical-coordination-manager-enable-dental-1136096",
+    "description": "Department: Support OperationsReports To: Director, Support OperationsLocation: Remote (U.S.)Position Type: Full-Time, ExemptPosition SummaryThe Clinical Coordinator Department Manager oversees the Clinical Coordination team responsible for maintaining accurate, appropriately filled provider schedules across all markets. This role provides leadership, operational oversight, training, workload management, process improvement, and cross-department collaboration to support consistent scheduling per",
+    "date": "2026-08-04T13:59:30+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Data Analyst Assistant",
+    "company": "Arabian Private Holdings",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-data-analyst-assistant-arabian-private-holdings-1136217",
+    "description": "About the role The Data Analyst Assistant role is central to our current engagement with a Dubai-based investment firm that requires precise data handling and clear visualization. This position provides the quantitative groundwork that allows our principals to form a view on complex corporate governance and strategy questions. We need an assistant who can organize messy data sets into logical structures that reveal the health and performance of a holding company.  About Arabian Private Holdings ",
+    "date": "2026-08-04T13:06:29+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Business Development",
+    "company": "GROW10X",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-business-development-grow10x-1136221",
+    "description": "Company DescriptionGrow10X is a leading full-service agency dedicated to accelerating revenue growth for B2B SaaS technology companies through outbound lead generation. By integrating expertise, technology, on-demand data, and a globally distributed workforce, Grow10X empowers clients to achieve fast and scalable business growth. The company specializes in enhancing sales outcomes through direct outreach, including cold calling and personalized cold email campaigns. Supported by a comprehensive ",
+    "date": "2026-08-04T07:17:17+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Market Research",
+    "company": "GROW10X",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-market-research-grow10x-1136216",
+    "description": "Company DescriptionGROW10X is a leading full-service agency specializing in helping B2B SaaS technology companies accelerate revenue growth through outbound lead generation. Utilizing a combination of cutting-edge technology, expert strategies, on-demand data, and a globally distributed team, GROW10X is dedicated to delivering measurable sales outcomes for clients. With a focus on direct outreach methods such as cold calling and one-on-one cold email marketing, the team works as an integrated ex",
+    "date": "2026-08-04T07:13:53+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Student Success Coach",
+    "company": "FindTutors",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-student-success-coach-findtutors-1136086",
+    "description": "FindTutors is one of the leading online education platforms in the UK, connecting students with tutors and mentors who support both academic achievement and personal development. We help learners at all stages of education build confidence, improve performance, and reach their goals through personalised guidance.About The RoleWe are looking for empathetic and positive individuals to join us as Student Success Coaches. This online role focuses on student wellbeing, motivation, and goal-setting, s",
+    "date": "2026-08-03T19:35:02+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Customer Support Specialist",
+    "company": "Resource Guru",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-customer-support-specialist-resource-guru-1136066",
+    "description": "Type: Full timeSalary: Location-dependent (UK: Â£30,000âÂ£35,000 GBP / Canada: CAD $48,000â$57,000) + share optionsLocation: UK or Canada (Atlantic Time Zone only)Meet The GuruResource Guru is a blissfully simple scheduling tool that helps busy teams stay on track.We boost efficiency, improve resource utilisation, and increase project profitability - while promoting a healthy work/life balance.Weâre proud to be one of the leaders in our category, trusted by customers in over 100 countries ",
+    "date": "2026-08-01T14:24:36+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Managing Director",
+    "company": "Berni and Mick Ireland",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
+    "description": "Strategic OverviewWe are identifying a strategic thinker and natural leaderâan individual who thrives on solving complex challenges and inspiring others to do the same. This role is designed for a professional with extensive experience as a Managing Director who is ready to leverage their expertise in a new, autonomous career path. We are seeking the right person who is eager to make a meaningful impact and thrive within a constantly evolving global environment.About the OpportunityRepresentin",
+    "date": "2026-08-01T06:38:19+00:00",
+    "source": "RemoteOK"
+  },
+  {
+    "title": "Freelance Creative Director",
+    "company": "BMWL",
+    "location": "Remote",
+    "url": "https://remoteok.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
+    "description": "Freelance Creative DirectorBMWL (an Axiom Advisors Group company) â Remote / ContractAbout Us:BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication, advocacy, and campaign management services to a diverse range of clients, including political candidates, advocacy groups, and non-profit organizations. Our team comprises experienced professionals passionate about making a positive impact through eff",
+    "date": "2026-07-31T23:38:35+00:00",
     "source": "RemoteOK"
   }
 ]
